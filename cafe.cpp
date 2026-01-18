@@ -18,9 +18,9 @@ double dailyTotal = 0.0;
 
 // PROTOTYPES
 void clearInput();
-    int readInt(const string &prompt);
-    int readIntInRange(const string &prompt, int minVal, int maxVal);
-    double readDoubleGreaterThan(const string &prompt, double minVal);
+int readInt(const string &prompt);
+int readIntInRange(const string &prompt, int minVal, int maxVal);
+double readDoubleGreaterThan(const string &prompt, double minVal);
 
 void printHeader(const string &title);
 void printDivider();
