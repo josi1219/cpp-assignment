@@ -70,7 +70,7 @@ cd cpp-assignment
 ```
 ### 3️⃣ Compile the Program
    ```bash
-   g++ vssc.cpp -o cafe
+   g++ cafe.cpp -o cafe
    ```
 ### 4️⃣ Run the executable:
    ```bash
