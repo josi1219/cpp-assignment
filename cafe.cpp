@@ -3,11 +3,11 @@
 #include <limits>
 #include <string>
 
-using namespace std;
+using namespace  std;
 
 // CONSTANTS   
-const int MAX_ITEMS = 10;
-const double TAX_RATE = 0.15;
+const int MAX_ITEMS =   10;
+const double TAX_RATE   = 0.15;
 const string ADMIN_PASSWORD = "1111";
 
 // DAILY SALES 
