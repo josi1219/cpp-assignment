@@ -8,17 +8,17 @@ using namespace  std;
 // CONSTANTS   
 const int MAX_ITEMS =   10;
 const double TAX_RATE   = 0.15;
-const string ADMIN_PASSWORD = "1111";
+const string ADMIN_PASSWORD =    "1111";
 
 // DAILY SALES 
 double dailySubtotal = 0.0;
 double dailyDiscount = 0.0;
-double dailyTax = 0.0;
+double dailyTax = 0.0;  
 double dailyTotal = 0.0;
 
 // PROTOTYPES
 void clearInput();
-int readInt(const string &prompt);
+int readInt(const string  &prompt);
 int readIntInRange(const string &prompt, int minVal, int maxVal);
 double readDoubleGreaterThan(const string &prompt, double minVal);
 
