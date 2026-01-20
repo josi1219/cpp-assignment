@@ -16,7 +16,7 @@ The main goal of this project is to:
 
 ---
 
-## 🧩 System Overview
+## 🧩 System Overview 
 The system is divided into two main modes:
 
 ### 1️⃣ Cashier Mode
